@@ -6,7 +6,7 @@ prereq: "none"
 difficulty: "Beginner"
 icon: "fab fa-java"
 draft: false
-hidden: false
+hidden: true
 ---
 
 ## Overview
