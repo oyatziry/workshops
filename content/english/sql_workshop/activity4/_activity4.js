@@ -23,8 +23,8 @@ function sql()
 
   sqlToTable(headArr, array);
 
-  var ans1 = "select leader, planet from galaxy;";
-  var ans2 = "select planet, leader from galaxy;";
+  var ans1 = "select leader_name, planet_name from galaxy;";
+  var ans2 = "select planet_name, leader_name from galaxy;";
   user = user.toLowerCase();
   
   if(user == ans1 || user == ans2)
