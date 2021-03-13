@@ -2,8 +2,7 @@
 title: "Appendix"
 description: ""
 draft: false
-hidden: true
-weight: 1
+weight: 8
 ---
 
 # Appendix
